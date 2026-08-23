@@ -1,57 +1,28 @@
-<h1 align="center">Hi 👋, I'm Ananya Singh</h1>
+<div align="center">
 
-<h3 align="center">
-Computer Science Student | Developer | Problem Solver
-</h3>
+# Ananya Singh
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ananyasingh9170gre-sketch&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+### `Computer Science Engineering Student` · `Developer` · `Problem Solver`
 
----
+<br>
 
-## 👩‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+with+logic+%26+curiosity.;Turning+ideas+into+code.;Learning+something+new+every+day.;Code.+Think.+Build.+Repeat." />
 
-- 🎓 Computer Science Engineering student
-- 💻 Currently learning **Data Structures & Algorithms**
-- ☕ Coding primarily in **Java**
-- 🌐 Exploring **React, TypeScript & Full-Stack Development**
-- 🤖 Interested in **AI, Digital Public Infrastructure & intelligent systems**
-- 🚀 Love building projects and participating in hackathons
-- 🎯 Goal: Become a strong software engineer
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ananyasingh9170gre-sketch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your-email@example.com)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-`Java` `JavaScript` `TypeScript` `HTML` `CSS`
-
-### Frameworks & Libraries
-`React` `Vite` `Tailwind CSS`
-
-### Tools
-`Git` `GitHub` `VS Code`
-
-### Currently Learning
-`DSA` `System Design` `AI/ML`
-
----
-
-## 🚀 Featured Projects
-
-### 🇮🇳 JanSetu
-AI-powered Digital Public Infrastructure platform that transforms citizen feedback into data-driven development priorities.
-
-**Tech:** React • TypeScript • AI • Data Analytics
-
-### 🔐 Industrial Cybersecurity Threat Detection System
-A system focused on identifying and analyzing potential cybersecurity threats in industrial environments.
-
-**Tech:** Java • Data Structures • Cybersecurity
-
----
-
-## 📚 Currently Working On
+## `> whoami`
 
 ```text
+Ananya Singh
+├── Computer Science Engineering Student
+├── Developer
+├── Problem Solver
+└── Curious Human
