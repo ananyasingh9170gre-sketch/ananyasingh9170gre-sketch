@@ -92,7 +92,7 @@ class Ananya:
 - 🔄 Go deeper into AI / ML
 - 🔄 Learn backend & system design
 - 🔜 Contribute to Open Source
-- 🔜 Win another hackathon 🏆
+- 🔜 Win hackathon 🏆
 
 <br/>
 
