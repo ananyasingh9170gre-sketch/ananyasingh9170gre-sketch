@@ -1,275 +1,61 @@
 <div align="center">
 
-# ⚡ ANANYA SINGH
-
-### `CSE STUDENT` &nbsp;•&nbsp; `DEVELOPER` &nbsp;•&nbsp; `PROBLEM SOLVER`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=180&section=header&text=ANANYA%20SINGH&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Computer%20Science%20Engineering%20Student%20%7C%20Developer%20%7C%20Problem%20Solver&descAlignY=68&descSize=16"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=750&lines=%3E+Initializing+developer.mode...;%3E+Learning+%7C+Building+%7C+Breaking+%7C+Fixing;%3E+Turning+ideas+into+working+software.;%3E+Engineering+mindset%3A+ON;%3E+Code.+Think.+Build.+Repeat.+%F0%9F%9A%80" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ananyasingh9170gre-sketch&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+things+that+make+sense.;Learning+%7C+Building+%7C+Improving.;Turning+problems+into+solutions.;Engineering+mindset+%E2%9A%A1;Code.+Think.+Build.+Repeat." />
 
 <br><br>
 
 <a href="https://github.com/ananyasingh9170gre-sketch">
-<img src="https://img.shields.io/badge/%3E_Explore_My_Code-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=ananyasingh9170gre-sketch&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## `01 // SYSTEM.IDENTITY`
+<div align="center">
+
+## `FOCUS AREA`
+
+<img src="https://img.shields.io/badge/DSA-161b22?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+<img src="https://img.shields.io/badge/JAVA-161b22?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/REACT-161b22?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-161b22?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-161b22?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/SYSTEM%20DESIGN-161b22?style=for-the-badge&logo=probot&logoColor=58A6FF"/>
+
+</div>
+
+---
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="55%">
+## `01 // ABOUT`
+
+### Building. Learning. Solving.
+
+I'm a **Computer Science Engineering student** who enjoys understanding how systems work and turning ideas into practical software.
+
+<br>
 
 ```text
-┌─────────────────────────────────────────┐
-│                                         │
-│   ANANYA@GITHUB                         │
-│   ───────────────────────────────        │
-│                                         │
-│   ROLE        → CSE STUDENT             │
-│   MODE        → BUILD                   │
-│   MINDSET     → PROBLEM SOLVING        │
-│   STATUS      → ONLINE ●                │
-│                                         │
-│   ───────────────────────────────        │
-│                                         │
-│   > learning new things                 │
-│   > solving difficult problems           │
-│   > building useful software             │
-│   > improving every iteration            │
-│                                         │
-└─────────────────────────────────────────┘
-</td> <td width="45%">
-╭────────────────────────╮
-│                        │
-│  🧠 THINK              │
-│  💻 BUILD              │
-│  🐛 DEBUG              │
-│  🚀 SHIP               │
-│                        │
-╰────────────────────────╯
-<br>
+CURRENT MODE
+────────────────────────────
 
-Engineering > memorizing syntax
+🧠  Problem Solving
+💻  Software Development
+🌐  Web Technologies
+🤖  AI / Intelligent Systems
+⚙️  Engineering Fundamentals
 
-</td> </tr> </table>
-02 // TECH.ARSENAL
-<div align="center">
-LANGUAGES
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" />
-
-<br><br>
-
-DEVELOPMENT
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs" />
-
-<br><br>
-
-TOOLS
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /> </div>
-03 // CURRENTLY.EXECUTING
-<table> <tr> <td align="center" width="20%">
-🧠
-
-DSA
-
-Problem
-Solving
-
-</td> <td align="center" width="20%">
-☕
-
-JAVA
-
-Core
-Programming
-
-</td> <td align="center" width="20%">
-🌐
-
-WEB
-
-Build
-Interfaces
-
-</td> <td align="center" width="20%">
-🤖
-
-AI
-
-Intelligent
-Systems
-
-</td> <td align="center" width="20%">
-⚙️
-
-SYSTEMS
-
-Think
-Deeper
-
-</td> </tr> </table>
-04 // ENGINEERING.PROTOCOL
-<div align="center">
-                  ┌──────────────┐
-                  │    PROBLEM   │
-                  └──────┬───────┘
-                         │
-                         ▼
-                  ┌──────────────┐
-                  │   ANALYSE    │
-                  └──────┬───────┘
-                         │
-                         ▼
-                  ┌──────────────┐
-                  │    DESIGN    │
-                  └──────┬───────┘
-                         │
-                         ▼
-                  ┌──────────────┐
-                  │     CODE     │
-                  └──────┬───────┘
-                         │
-                         ▼
-                  ┌──────────────┐
-                  │    TEST      │
-                  └──────┬───────┘
-                         │
-                         ▼
-                  ┌──────────────┐
-                  │    DEBUG     │
-                  └──────┬───────┘
-                         │
-                         ▼
-                  ┌──────────────┐
-                  │    IMPROVE   │
-                  └──────┬───────┘
-                         │
-                         └──────────↺
-</div>
-05 // GITHUB.ACTIVITY
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ananyasingh9170gre-sketch&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="175"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyasingh9170gre-sketch&layout=compact&theme=github_dark&hide_border=true" height="175"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ananyasingh9170gre-sketch&theme=github-dark-blue&hide_border=true" /> </div>
-06 // CONTRIBUTION.MATRIX
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananyasingh9170gre-sketch&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" /> </div>
-07 // DEVELOPER.MINDSET
-╔════════════════════════════════════════════════════╗
-║                                                    ║
-║   DON'T JUST WRITE CODE.                          ║
-║                                                    ║
-║   ├── Understand the problem                      ║
-║   ├── Question the obvious solution               ║
-║   ├── Think about edge cases                      ║
-║   ├── Write simple code                            ║
-║   ├── Test everything                              ║
-║   └── Improve what you built                      ║
-║                                                    ║
-╚════════════════════════════════════════════════════╝
-<div align="center">
-Good engineers don't just solve problems.
-They understand them first.
-</div>
-08 // LEARNING.ROADMAP
-                         ┌──────────────┐
-                         │     DSA      │
-                         └──────┬───────┘
-                                │
-                                ▼
-                    ┌─────────────────────┐
-                    │  PROBLEM SOLVING    │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │  FULL STACK DEV     │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │    SYSTEM DESIGN    │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │      AI / ML        │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │ SOFTWARE ENGINEER   │
-                    └─────────────────────┘
-09 // 2026.MISSION
-<table> <tr> <td>🧠 DSA</td> <td>██████████████░░░░</td> <td>IN PROGRESS</td> </tr> <tr> <td>💻 Development</td> <td>█████████████░░░░░</td> <td>BUILDING</td> </tr> <tr> <td>🤖 AI / ML</td> <td>█████████░░░░░░░░░</td> <td>EXPLORING</td> </tr> <tr> <td>🌍 Open Source</td> <td>██████░░░░░░░░░░░░</td> <td>NEXT TARGET</td> </tr> <tr> <td>⚙️ System Design</td> <td>█████░░░░░░░░░░░░░</td> <td>LEARNING</td> </tr> </table>
-10 // TERMINAL
-$ git status
-
-On branch main
-
-Changes not staged for commit:
-    learning
-    building
-    improving
-
-Untracked files:
-    new_ideas/
-
-nothing to worry about.
-everything to build.
-11 // CODING.PHILOSOPHY
-<div align="center">
-public class Developer {
-
-    public static void main(String[] args) {
-
-        while (true) {
-
-            learn();
-            think();
-            build();
-            fail();
-            debug();
-            improve();
-
-        }
-    }
-}
-Think deeply. Code simply. Build continuously.
-</div>
-12 // CONNECT
-<div align="center">
-⚡ Interested in technology, ideas & problem solving.
-<br> <a href="https://github.com/ananyasingh9170gre-sketch"> <img src="https://img.shields.io/badge/FOLLOW-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF"/> </a>
-
-<br><br>
-
-╭─────────────────────────────────────────────╮
-│                                             │
-│   Let's build something interesting. ⚡     │
-│                                             │
-╰─────────────────────────────────────────────╯
-</div>
-<div align="center">
-while(alive) {
-    learn();
-    build();
-    grow();
-    repeat();
-}
-CODE • THINK • BUILD • REPEAT 🚀
-<br>
-
-<sub>Powered by curiosity, logic & too many browser tabs ☕</sub>
-
-</div> ```
+STATUS
+● ONLINE
+● LEARNING
+● BUILDING
