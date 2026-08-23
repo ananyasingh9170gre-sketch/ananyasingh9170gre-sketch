@@ -1,193 +1,109 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=180&section=header&text=ANANYA%20SINGH&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Computer%20Science%20Engineering%20Student%20%7C%20Developer%20%7C%20Problem%20Solver&descAlignY=68&descSize=16"/>
+<img src="https://avatars.githubusercontent.com/u/266386976?v=4" width="140" style="border-radius:50%;" />
 
-<br>
+<h1>Hey, I'm Ananya Singh 👩‍💻</h1>
+<h3>CSE Student · DSA & Full-Stack Development · Building AI-Powered Solutions 🚀 · Hackathon Enthusiast</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+things+that+make+sense.;Learning+%7C+Building+%7C+Improving.;Turning+problems+into+solutions.;Engineering+mindset+%E2%9A%A1;Code.+Think.+Build.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+code;DSA+%2B+Full+Stack+%2B+a+little+chaos;Building+AI-powered+solutions;Always+up+for+a+good+hackathon+%F0%9F%8F%86" alt="Typing SVG" />
 
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:1f6feb,100:0d1117&height=150&section=header" width="100%"/>
 
-<a href="https://github.com/ananyasingh9170gre-sketch">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=ananyasingh9170gre-sketch&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `FOCUS AREA`
-
-<img src="https://img.shields.io/badge/DSA-161b22?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-<img src="https://img.shields.io/badge/JAVA-161b22?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-<img src="https://img.shields.io/badge/REACT-161b22?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TYPESCRIPT-161b22?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/AI%20%26%20ML-161b22?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/SYSTEM%20DESIGN-161b22?style=for-the-badge&logo=probot&logoColor=58A6FF"/>
+<a href="https://github.com/ananyasingh9170gre-sketch"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.instagram.com/ananya_singh0806/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
----
+<br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🧠 About Me
 
-## `01 // ABOUT`
+```python
+class Ananya:
+    def __init__(self):
+        self.name        = "Ananya Singh"
+        self.role        = "CSE Undergraduate"
+        self.based_in    = "India 🇮🇳"
+        self.focus       = ["DSA", "Full-Stack Development", "AI-Powered Solutions"]
+        self.loves       = "Hackathons, building things that actually ship"
+        self.status      = "curious → learning → building"
 
-### Building. Learning. Solving.
+    def say_hi(self):
+        return "Let's build something intelligent together 🚀"
+```
 
-I'm a **Computer Science Engineering student** who enjoys understanding how systems work and turning ideas into practical software.
+<br/>
 
-<br>
+## ⚙️ Tech Stack
 
-```text
-CURRENT MODE
-────────────────────────────
-
-🧠  Problem Solving
-💻  Software Development
-🌐  Web Technologies
-🤖  AI / Intelligent Systems
-⚙️  Engineering Fundamentals
-
-STATUS
-● ONLINE
-● LEARNING
-● BUILDING
-</td> <td width="50%" valign="top">
-02 // CURRENTLY
-┌──────────────────────────┐
-│                          │
-│  > DSA                   │
-│  > Java                  │
-│  > Full Stack            │
-│  > System Design         │
-│  > AI / ML               │
-│  > Open Source           │
-│                          │
-│  [████████████░░]  82%   │
-│                          │
-└──────────────────────────┘
-<br>
-
-Curiosity → Logic → Code → Impact
-
-</td> </tr> </table>
-03 // TECH STACK
 <div align="center">
-LANGUAGES
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css" />
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,vite,tailwind"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mongodb,mysql"/>
 
-FRAMEWORKS & DEVELOPMENT
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs" />
+</div>
 
-<br><br>
+<br/>
 
-TOOLS
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /> </div>
-<table> <tr> <td width="50%" valign="top">
-04 // HOW I THINK
-       PROBLEM
-          │
-          ▼
-     UNDERSTAND
-          │
-          ▼
-       ANALYSE
-          │
-          ▼
-        DESIGN
-          │
-          ▼
-         CODE
-          │
-          ▼
-         TEST
-          │
-          ▼
-        DEBUG
-          │
-          ▼
-       IMPROVE
-          │
-          └──────► REPEAT ↻
-</td> <td width="50%" valign="top">
-05 // ENGINEERING
-AREA	STATUS
-🧠 DSA	ACTIVE
-☕ Java	ACTIVE
-🌐 Web Dev	BUILDING
-🤖 AI / ML	EXPLORING
-⚙️ System Design	LEARNING
-🌍 Open Source	NEXT
-<br>
+## 🔥 Currently
 
-Goal: Become a better engineer, not just a better coder.
-
-</td> </tr> </table>
-06 // GITHUB ANALYTICS
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ananyasingh9170gre-sketch&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyasingh9170gre-sketch&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=ananyasingh9170gre-sketch&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" /> </div>
-07 // CONTRIBUTION GRAPH
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananyasingh9170gre-sketch&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true"/> </div>
-<table> <tr> <td width="50%" valign="top">
-08 // LEARNING
-JAVA
-████████████████░░
-
-DSA
-██████████████░░░░
-
-REACT
-█████████████░░░░░
-
-TYPESCRIPT
-████████████░░░░░░
-
-AI / ML
-█████████░░░░░░░░░
-
-SYSTEM DESIGN
-███████░░░░░░░░░░░
-</td> <td width="50%" valign="top">
-09 // 2026 MISSION
-✓ Strengthen DSA
-
-✓ Build meaningful software
-
-✓ Improve problem solving
-
-✓ Explore AI
-
-✓ Learn backend systems
-
-✓ Participate in hackathons
-
-→ Contribute to Open Source
-</td> </tr> </table>
 <div align="center">
-10 // DEVELOPER PHILOSOPHY
-<br>
-"Don't just write code. Understand the problem."
-<br>
-while (alive) {
-    learn();
-    think();
-    build();
-    fail();
-    debug();
-    improve();
-}
-<br> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,50:1f6feb,100:161b22&height=2&section=footer"/>
-CODE • THINK • BUILD • REPEAT
-<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=100&section=footer"/> </div> ```
+
+![DSA](https://img.shields.io/badge/DSA-ACTIVE-58A6FF?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-BUILDING-1F6FEB?style=for-the-badge)
+![AI/ML](https://img.shields.io/badge/AI%2FML-EXPLORING-A371F7?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-LEARNING-FF7B72?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-NEXT-3FB950?style=for-the-badge)
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+- **[ByteForge](https://github.com/ananyasingh9170gre-sketch/ByteForge)** — Built for a hackathon, forging ideas into working code under pressure ⚡
+- **[antigravity](https://github.com/ananyasingh9170gre-sketch/antigravity)** — Latest experiment, something new in the works 🛠️
+- **[shreja](https://github.com/ananyasingh9170gre-sketch/shreja)** — JavaScript-powered project
+- **[rahat](https://github.com/ananyasingh9170gre-sketch/rahat)** — TypeScript-powered project
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ananyasingh9170gre-sketch&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ananyasingh9170gre-sketch&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72" width="48%"/>
+
+</div>
+
+<br/>
+
+## 🎯 2026 Goals
+
+- ✅ Strengthen DSA fundamentals
+- ✅ Ship meaningful, real-world software
+- ✅ Get sharper at problem solving
+- 🔄 Go deeper into AI / ML
+- 🔄 Learn backend & system design
+- 🔜 Contribute to Open Source
+- 🔜 Win another hackathon 🏆
+
+<br/>
+
+<div align="center">
+
+<i>"Don't just write code. Understand the problem."</i>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ananyasingh9170gre-sketch&style=flat-square&color=58A6FF" alt="profile views"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:161b22&height=100&section=footer"/>
+
+</div>
